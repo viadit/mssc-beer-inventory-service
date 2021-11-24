@@ -1,7 +1,7 @@
 package guru.springframework.msscbeerinventoryservice.web.mappers;
 
 import guru.springframework.msscbeerinventoryservice.domain.BeerInventory;
-import guru.springframework.msscbeerinventoryservice.web.models.BeerInventoryDto;
+import guru.springframework.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 @Mapper(uses = DateMapper.class)

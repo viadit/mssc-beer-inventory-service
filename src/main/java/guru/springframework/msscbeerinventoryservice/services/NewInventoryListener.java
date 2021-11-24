@@ -1,6 +1,6 @@
 package guru.springframework.msscbeerinventoryservice.services;
 
-import guru.springframework.common.events.NewInventoryEvent;
+import guru.springframework.brewery.model.events.NewInventoryEvent;
 import guru.springframework.msscbeerinventoryservice.config.JmsConfig;
 import guru.springframework.msscbeerinventoryservice.domain.BeerInventory;
 import guru.springframework.msscbeerinventoryservice.repositories.BeerInventoryRepository;

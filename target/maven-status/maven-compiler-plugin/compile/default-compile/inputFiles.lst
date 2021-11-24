@@ -1,9 +1,13 @@
-D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\domain\BeerInventory.java
 D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\MsscBeerInventoryServiceApplication.java
 D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\repositories\BeerInventoryRepository.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\services\NewInventoryListener.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\config\JmsConfig.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\brewery\model\events\NewInventoryEvent.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\domain\BeerInventory.java
 D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\web\mappers\DateMapper.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\brewery\model\events\BeerDto.java
 D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\domain\BaseEntity.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\brewery\model\BeerInventoryDto.java
+D:\mssc-beer-inventory-service\src\main\java\guru\springframework\brewery\model\events\BeerEvent.java
 D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\web\mappers\BeerInventoryMapper.java
 D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\web\controllers\BeerInventoryController.java
-D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\web\models\BeerInventoryDto.java
-D:\mssc-beer-inventory-service\src\main\java\guru\springframework\msscbeerinventoryservice\bootstrap\BeerInventoryBootstrap.java
